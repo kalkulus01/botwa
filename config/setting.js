@@ -14,7 +14,7 @@ global.APIs = {
 };
 
 global.APIKeys = {
-  "https://api.openai.com/v1/chat/completions",
+  "https://api.openai.com/v1/chat/completions":"",
   "https://tools.betabotz.eu.org/": "", //your apikeyhere,
   "https://api.ryzendesu.vip/": "", //your apikeyhere,
 };
